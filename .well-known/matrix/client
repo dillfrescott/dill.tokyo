@@ -3,6 +3,6 @@
         "base_url": "https://matrix.dill.tokyo"
     },
     "org.matrix.msc3575.proxy": {
-        "url": "https://sync.dill.tokyo"
+        "url": "https://matrix.dill.tokyo"
     }
 }
